@@ -1,6 +1,6 @@
 # STACKIT Debug Container Image
 
-[![Docker Image Size](https://img.shields.io/docker/image-size/stackitcloud/stackit-debug-container?logo=docker)](https://hub.docker.com/r/stackitcloud/stackit-debug-container)
+[![GitHub Container Registry](https://img.shields.io/badge/ghcr.io-stackitcloud%2Fstackit--debug--container-blue?style=flat-square&logo=github)](https://ghcr.io/stackitcloud/stackit-debug-container)
 [![Alpine Version](https://img.shields.io/badge/Alpine-3.22-0D597F?logo=alpinelinux)](https://alpinelinux.org/)
 [![License](https://img.shields.io/github/license/stackitcloud/stackit-debug-container)](https://github.com/stackitcloud/stackit-debug-container/blob/main/LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/stackitcloud/stackit-debug-container/build.yml?logo=github-actions)](https://github.com/stackitcloud/stackit-debug-container/actions)
