@@ -1,0 +1,1 @@
+# STACKIT Debug Container Image
