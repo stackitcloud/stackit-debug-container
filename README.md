@@ -46,7 +46,7 @@ This container provides a comprehensive toolkit for debugging networking issues,
 ## Quick Start
 
 ```bash
-kubectl run debug-session --rm -i --tty --image=schwarzit/stackit-debug-container:latest
+kubectl run debug-session --rm -i --tty --image=ghcr.io/stackitcloud/stackit-debug-container:latest
 ```
 
 ## Security Features
