@@ -1,10 +1,10 @@
 # STACKIT Debug Container Image
 
-[![Docker Image Size](https://img.shields.io/docker/image-size/stackitcloud/stackit-debug-container?style=flat-square&logo=docker)](https://hub.docker.com/r/stackitcloud/stackit-debug-container)
-[![Alpine Version](https://img.shields.io/badge/Alpine-3.22-0D597F?style=flat-square&logo=alpinelinux)](https://alpinelinux.org/)
+[![Docker Image Size](https://img.shields.io/docker/image-size/stackitcloud/stackit-debug-container?logo=docker)](https://hub.docker.com/r/stackitcloud/stackit-debug-container)
+[![Alpine Version](https://img.shields.io/badge/Alpine-3.22-0D597F?logo=alpinelinux)](https://alpinelinux.org/)
 [![License](https://img.shields.io/github/license/stackitcloud/stackit-debug-container?style=flat-square)](https://github.com/stackitcloud/stackit-debug-container/blob/main/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/stackitcloud/stackit-debug-container?style=flat-square&logo=github)](https://github.com/stackitcloud/stackit-debug-container/stargazers)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/stackitcloud/stackit-debug-container/build.yml?style=flat-square&logo=github-actions)](https://github.com/stackitcloud/stackit-debug-container/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/stackitcloud/stackit-debug-container?logo=github)](https://github.com/stackitcloud/stackit-debug-container/stargazers)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/stackitcloud/stackit-debug-container/build.yml?logo=github-actions)](https://github.com/stackitcloud/stackit-debug-container/actions)
 
 A lightweight Alpine Linux-based debug container specifically designed for troubleshooting and debugging applications in STACKIT Kubernetes Engine (SKE) clusters.
 
